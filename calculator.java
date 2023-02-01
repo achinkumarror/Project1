@@ -1,3 +1,6 @@
+# This program will show the demo of simple calculator
+# Test update of file
+#
 import java.util.Scanner;
 
  public class calculator
